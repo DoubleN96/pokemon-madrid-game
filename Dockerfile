@@ -2,7 +2,7 @@
 FROM nginx:alpine
 
 ## Invalidate cache for fresh build
-ARG CACHEBUST=20250115-121500
+ARG CACHEBUST=20251115-122409
 
 # Copy game files
 COPY . /usr/share/nginx/html/
