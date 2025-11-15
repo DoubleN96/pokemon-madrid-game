@@ -1,0 +1,2403 @@
+[
+  null,
+  {
+    "id": 1,
+    "name": "Chulapón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      125,
+      0,
+      82,
+      69,
+      58,
+      64,
+      95,
+      10
+    ],
+    "exp": 64,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 2,
+    "name": "Chulapón-Plus",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      140,
+      0,
+      105,
+      85,
+      70,
+      80,
+      100,
+      10
+    ],
+    "exp": 142,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 3,
+    "name": "Castizón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      165,
+      0,
+      145,
+      110,
+      90,
+      100,
+      95,
+      10
+    ],
+    "exp": 239,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 4,
+    "name": "Gatolegre",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      120,
+      0,
+      70,
+      60,
+      75,
+      70,
+      100,
+      10
+    ],
+    "exp": 66,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 5,
+    "name": "Miaupintura",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      135,
+      0,
+      85,
+      75,
+      100,
+      90,
+      100,
+      10
+    ],
+    "exp": 145,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 6,
+    "name": "Felínoir",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      150,
+      0,
+      110,
+      95,
+      135,
+      110,
+      95,
+      10
+    ],
+    "exp": 237,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 7,
+    "name": "Azulejín",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      125,
+      0,
+      68,
+      85,
+      70,
+      75,
+      67,
+      10
+    ],
+    "exp": 65,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 8,
+    "name": "Azulejón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      80,
+      105,
+      90,
+      95,
+      65,
+      10
+    ],
+    "exp": 144,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 9,
+    "name": "Mayólicon",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      175,
+      0,
+      100,
+      150,
+      125,
+      105,
+      45,
+      10
+    ],
+    "exp": 240,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 10,
+    "name": "Ratamad",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      105,
+      0,
+      76,
+      55,
+      45,
+      55,
+      92,
+      10
+    ],
+    "exp": 51,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 11,
+    "name": "Rataurban",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      130,
+      0,
+      101,
+      80,
+      70,
+      90,
+      117,
+      10
+    ],
+    "exp": 145,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 12,
+    "name": "Pichoneta",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      115,
+      0,
+      65,
+      60,
+      55,
+      55,
+      76,
+      10
+    ],
+    "exp": 50,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 13,
+    "name": "Palomazul",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      138,
+      0,
+      80,
+      75,
+      70,
+      70,
+      91,
+      10
+    ],
+    "exp": 122,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 14,
+    "name": "Perrucho",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      130,
+      0,
+      90,
+      65,
+      60,
+      60,
+      80,
+      10
+    ],
+    "exp": 61,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 15,
+    "name": "Canchorro",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      155,
+      0,
+      120,
+      90,
+      70,
+      85,
+      105,
+      10
+    ],
+    "exp": 158,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 16,
+    "name": "Castañón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      140,
+      0,
+      95,
+      90,
+      65,
+      70,
+      65,
+      10
+    ],
+    "exp": 112,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 17,
+    "name": "Voltaploma",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      125,
+      0,
+      80,
+      65,
+      95,
+      70,
+      110,
+      10
+    ],
+    "exp": 118,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 18,
+    "name": "Farola-K",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      135,
+      0,
+      75,
+      105,
+      100,
+      90,
+      60,
+      10
+    ],
+    "exp": 135,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 19,
+    "name": "Neoniko",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      130,
+      0,
+      90,
+      70,
+      110,
+      80,
+      115,
+      10
+    ],
+    "exp": 145,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 20,
+    "name": "Libracho",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      120,
+      0,
+      55,
+      70,
+      90,
+      80,
+      75,
+      10
+    ],
+    "exp": 88,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 21,
+    "name": "Tomoroto",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      70,
+      95,
+      120,
+      105,
+      90,
+      10
+    ],
+    "exp": 165,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 22,
+    "name": "Espadachín",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      135,
+      0,
+      100,
+      85,
+      60,
+      75,
+      95,
+      10
+    ],
+    "exp": 128,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 23,
+    "name": "Piquerico",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      105,
+      100,
+      55,
+      80,
+      75,
+      10
+    ],
+    "exp": 138,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 24,
+    "name": "Alabardón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      155,
+      0,
+      115,
+      105,
+      65,
+      90,
+      70,
+      10
+    ],
+    "exp": 155,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 25,
+    "name": "Rosalaño",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      140,
+      0,
+      70,
+      80,
+      105,
+      95,
+      90,
+      10
+    ],
+    "exp": 135,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 26,
+    "name": "Cipresal",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      80,
+      100,
+      95,
+      105,
+      65,
+      10
+    ],
+    "exp": 142,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 27,
+    "name": "Estanquera",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      160,
+      0,
+      75,
+      95,
+      110,
+      115,
+      70,
+      10
+    ],
+    "exp": 158,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 28,
+    "name": "Taurín",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      110,
+      90,
+      70,
+      80,
+      100,
+      10
+    ],
+    "exp": 145,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 29,
+    "name": "Capotero",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      135,
+      0,
+      85,
+      75,
+      115,
+      90,
+      110,
+      10
+    ],
+    "exp": 140,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 30,
+    "name": "Taurón Bravo",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      170,
+      0,
+      140,
+      105,
+      85,
+      95,
+      105,
+      10
+    ],
+    "exp": 210,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 31,
+    "name": "Grafitón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      140,
+      0,
+      100,
+      80,
+      105,
+      85,
+      110,
+      10
+    ],
+    "exp": 148,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 32,
+    "name": "Viniloz",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      95,
+      90,
+      110,
+      95,
+      115,
+      10
+    ],
+    "exp": 155,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 33,
+    "name": "Moviderón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      155,
+      0,
+      110,
+      95,
+      120,
+      100,
+      125,
+      10
+    ],
+    "exp": 185,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 34,
+    "name": "Teleportín",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      135,
+      0,
+      70,
+      85,
+      125,
+      105,
+      120,
+      10
+    ],
+    "exp": 165,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 35,
+    "name": "Torrezka",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      150,
+      0,
+      80,
+      130,
+      115,
+      120,
+      80,
+      10
+    ],
+    "exp": 175,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 36,
+    "name": "Cerebrium",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      75,
+      95,
+      145,
+      115,
+      130,
+      10
+    ],
+    "exp": 195,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 37,
+    "name": "Leonceles",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      150,
+      0,
+      115,
+      100,
+      90,
+      95,
+      105,
+      10
+    ],
+    "exp": 160,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 38,
+    "name": "Fuentiña",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      155,
+      0,
+      80,
+      110,
+      120,
+      115,
+      90,
+      10
+    ],
+    "exp": 172,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 39,
+    "name": "Cibeleón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      175,
+      0,
+      105,
+      120,
+      135,
+      130,
+      100,
+      10
+    ],
+    "exp": 220,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 40,
+    "name": "Gorrioneta",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      115,
+      0,
+      75,
+      50,
+      50,
+      50,
+      90,
+      10
+    ],
+    "exp": 52,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 41,
+    "name": "Cochinón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      155,
+      0,
+      100,
+      70,
+      60,
+      60,
+      55,
+      10
+    ],
+    "exp": 78,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 42,
+    "name": "Barquito",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      125,
+      0,
+      60,
+      75,
+      85,
+      75,
+      80,
+      10
+    ],
+    "exp": 88,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 43,
+    "name": "Mapachín",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      140,
+      0,
+      90,
+      70,
+      70,
+      70,
+      100,
+      10
+    ],
+    "exp": 96,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 44,
+    "name": "Urracabra",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      105,
+      85,
+      95,
+      90,
+      115,
+      10
+    ],
+    "exp": 155,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 45,
+    "name": "Madroñón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      155,
+      0,
+      80,
+      90,
+      110,
+      105,
+      90,
+      10
+    ],
+    "exp": 168,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 46,
+    "name": "Metrobús",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      150,
+      0,
+      90,
+      120,
+      105,
+      95,
+      105,
+      10
+    ],
+    "exp": 182,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 47,
+    "name": "Sprayón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      125,
+      0,
+      65,
+      60,
+      80,
+      65,
+      90,
+      10
+    ],
+    "exp": 68,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 48,
+    "name": "Cadenazo",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      135,
+      0,
+      95,
+      90,
+      55,
+      70,
+      75,
+      10
+    ],
+    "exp": 82,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 49,
+    "name": "Murcielastre",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      115,
+      0,
+      65,
+      55,
+      50,
+      60,
+      105,
+      10
+    ],
+    "exp": 54,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 50,
+    "name": "Murciesiniestro",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      150,
+      0,
+      100,
+      90,
+      85,
+      95,
+      130,
+      10
+    ],
+    "exp": 159,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 51,
+    "name": "Vandalón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      150,
+      0,
+      120,
+      90,
+      70,
+      85,
+      110,
+      10
+    ],
+    "exp": 172,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 52,
+    "name": "Destrozón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      155,
+      0,
+      130,
+      110,
+      75,
+      90,
+      90,
+      10
+    ],
+    "exp": 185,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 53,
+    "name": "Metroxidado",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      160,
+      0,
+      95,
+      135,
+      90,
+      105,
+      70,
+      10
+    ],
+    "exp": 195,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 54,
+    "name": "Sombratún",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      110,
+      80,
+      125,
+      95,
+      120,
+      10
+    ],
+    "exp": 205,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 55,
+    "name": "Megalínea",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      175,
+      0,
+      140,
+      130,
+      100,
+      110,
+      105,
+      10
+    ],
+    "exp": 240,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 56,
+    "name": "Grafitorra",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      140,
+      0,
+      80,
+      75,
+      115,
+      90,
+      105,
+      10
+    ],
+    "exp": 148,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 57,
+    "name": "Cerrojón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      85,
+      125,
+      60,
+      100,
+      55,
+      10
+    ],
+    "exp": 125,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 58,
+    "name": "Túnelator",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      150,
+      0,
+      115,
+      95,
+      75,
+      85,
+      100,
+      10
+    ],
+    "exp": 168,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 59,
+    "name": "Metrión",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      181,
+      0,
+      110,
+      140,
+      174,
+      140,
+      110,
+      10
+    ],
+    "exp": 270,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 60,
+    "name": "Ursabón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      185,
+      0,
+      130,
+      110,
+      120,
+      130,
+      80,
+      10
+    ],
+    "exp": 270,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 61,
+    "name": "Halcónix",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      165,
+      0,
+      145,
+      90,
+      105,
+      95,
+      135,
+      10
+    ],
+    "exp": 250,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 62,
+    "name": "Cuervoluz",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      165,
+      0,
+      110,
+      105,
+      145,
+      110,
+      120,
+      10
+    ],
+    "exp": 250,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 63,
+    "name": "Águilasol",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      181,
+      0,
+      105,
+      110,
+      145,
+      130,
+      115,
+      10
+    ],
+    "exp": 250,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 64,
+    "name": "Osabón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      170,
+      0,
+      125,
+      120,
+      85,
+      110,
+      90,
+      10
+    ],
+    "exp": 220,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 65,
+    "name": "Angelón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      155,
+      0,
+      95,
+      115,
+      135,
+      125,
+      110,
+      10
+    ],
+    "exp": 220,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 66,
+    "name": "Teatrón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      85,
+      95,
+      130,
+      115,
+      115,
+      10
+    ],
+    "exp": 195,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 67,
+    "name": "Fantasmadrid",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      150,
+      0,
+      115,
+      90,
+      120,
+      100,
+      125,
+      10
+    ],
+    "exp": 205,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 68,
+    "name": "Espectrópera",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      155,
+      0,
+      90,
+      105,
+      135,
+      120,
+      110,
+      10
+    ],
+    "exp": 210,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 69,
+    "name": "Lagartijo",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      143,
+      0,
+      105,
+      90,
+      95,
+      85,
+      112,
+      10
+    ],
+    "exp": 180,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 70,
+    "name": "Dragomadrid",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      160,
+      0,
+      145,
+      120,
+      115,
+      105,
+      125,
+      10
+    ],
+    "exp": 240,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 71,
+    "name": "Culebrasa",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      165,
+      0,
+      130,
+      110,
+      125,
+      110,
+      115,
+      10
+    ],
+    "exp": 230,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 72,
+    "name": "Florecita",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      145,
+      0,
+      80,
+      95,
+      125,
+      115,
+      110,
+      10
+    ],
+    "exp": 188,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 73,
+    "name": "Fuentealta",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      165,
+      0,
+      90,
+      115,
+      130,
+      125,
+      100,
+      10
+    ],
+    "exp": 215,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 74,
+    "name": "Angelreal",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      160,
+      0,
+      95,
+      110,
+      140,
+      130,
+      115,
+      10
+    ],
+    "exp": 225,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 75,
+    "name": "Armadurón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      155,
+      0,
+      135,
+      130,
+      70,
+      95,
+      90,
+      10
+    ],
+    "exp": 215,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 76,
+    "name": "Cañonazo",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      160,
+      0,
+      140,
+      120,
+      115,
+      100,
+      95,
+      10
+    ],
+    "exp": 225,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 77,
+    "name": "Coronarón",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      150,
+      0,
+      115,
+      140,
+      125,
+      115,
+      105,
+      10
+    ],
+    "exp": 230,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 78,
+    "name": "Realmajestic",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      175,
+      0,
+      120,
+      120,
+      150,
+      130,
+      130,
+      10
+    ],
+    "exp": 270,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 79,
+    "name": "Osamajestuoso",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      180,
+      0,
+      135,
+      115,
+      125,
+      135,
+      110,
+      10
+    ],
+    "exp": 275,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  },
+  {
+    "id": 80,
+    "name": "Metrocrown",
+    "battlerName": "",
+    "battlerHue": 0,
+    "params": [
+      185,
+      0,
+      115,
+      145,
+      155,
+      145,
+      115,
+      10
+    ],
+    "exp": 280,
+    "gold": 10,
+    "dropItems": [],
+    "actions": [
+      {
+        "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      }
+    ],
+    "traits": [],
+    "note": ""
+  }
+]
