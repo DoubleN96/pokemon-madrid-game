@@ -137,13 +137,35 @@ Catch Rate = (3 * Max HP - 2 * Current HP) * Catch Rate * Ball Bonus
 ### Pasos
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/pokemon-madrid-game.git
+git clone https://github.com/DoubleN96/pokemon-madrid-game.git
 cd pokemon-madrid-game
 ```
 
 2. Abre el proyecto en RPG Maker MZ
 
-3. ¡Juega!
+3. Los plugins ya están instalados y configurados en `js/plugins/`
+
+4. ¡Juega!
+
+## 🔌 Plugins Incluidos
+
+El juego usa los siguientes plugins para funcionalidad Pokémon completa:
+
+### Monster Capture System (Synrec)
+- ✅ **Synrec_MC_Core** - Sistema de captura de Pokémon
+- ✅ **Synrec_MC_BattleCore** - Sistema de batalla
+- ✅ **Synrec_MC_Evolution** - Sistema de evolución
+- ✅ **Synrec_MC_Beastiary** - Pokédex/Bestiario
+- ✅ **Synrec_MC_GenderTraits** - Sistema de género
+- ✅ **Synrec_MC_PlayerSetup** - Setup inicial
+
+### Pokemon Mechanics (SumRndmDde)
+- ✅ **SRD_PokemonTypeSystem** - Sistema de tipos con efectividad
+- ✅ **SRD_PokemonTypeDisplay** - Visualización de tipos
+- ✅ **SRD_Natures** - Sistema de naturalezas
+- ✅ **SRD_Pokemon4MovesOnly** - Límite de 4 movimientos
+
+**Ver [PLUGINS_GUIDE.md](docs/PLUGINS_GUIDE.md) para documentación completa.**
 
 ## 🛠️ Desarrollo
 
