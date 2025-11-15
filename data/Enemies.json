@@ -20,15 +20,21 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 9,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 2,
@@ -50,15 +56,21 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 9,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 3,
@@ -80,15 +92,21 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 9,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 4,
@@ -115,10 +133,35 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 5,
@@ -145,10 +188,35 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 6,
@@ -175,10 +243,35 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 7,
@@ -200,6 +293,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 4,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -207,8 +307,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 8,
@@ -230,6 +341,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 4,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -237,8 +355,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 9,
@@ -260,6 +389,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 4,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -267,8 +403,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 10,
@@ -295,10 +442,23 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 11,
@@ -325,10 +485,23 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 12,
@@ -355,10 +528,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 13,
@@ -385,10 +576,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 14,
@@ -415,10 +624,23 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 15,
@@ -445,10 +667,30 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 9,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 16,
@@ -475,10 +717,35 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 5,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 17,
@@ -500,6 +767,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 6,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -507,8 +781,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 18,
@@ -530,6 +815,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 6,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -537,8 +829,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 19,
@@ -560,6 +863,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 6,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -567,8 +877,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 20,
@@ -590,15 +911,21 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 7,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:255>"
   },
   {
     "id": 21,
@@ -620,15 +947,21 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 7,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 22,
@@ -650,6 +983,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 9,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -657,8 +997,14 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 23,
@@ -680,6 +1026,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 9,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -687,8 +1040,14 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 24,
@@ -710,6 +1069,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 9,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -717,8 +1083,14 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 25,
@@ -740,15 +1112,33 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 5,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 8,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 26,
@@ -770,15 +1160,33 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 5,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 7,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 27,
@@ -800,15 +1208,28 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 5,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 4,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 28,
@@ -830,15 +1251,40 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 3,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 10,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 9,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 29,
@@ -860,6 +1306,20 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 3,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 10,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -867,8 +1327,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 30,
@@ -890,15 +1361,40 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 3,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 10,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 9,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 31,
@@ -925,10 +1421,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 32,
@@ -955,10 +1469,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 33,
@@ -985,10 +1517,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 34,
@@ -1010,15 +1560,21 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 7,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 35,
@@ -1040,6 +1596,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -1047,8 +1610,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 36,
@@ -1070,15 +1644,21 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 7,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 37,
@@ -1100,15 +1680,21 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 4,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 38,
@@ -1130,15 +1716,33 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 4,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 8,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 39,
@@ -1160,15 +1764,33 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 4,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 8,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 40,
@@ -1195,10 +1817,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 41,
@@ -1225,10 +1865,23 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 42,
@@ -1250,15 +1903,21 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 4,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 43,
@@ -1285,10 +1944,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 44,
@@ -1315,10 +1992,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 45,
@@ -1340,15 +2035,33 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 5,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 8,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 46,
@@ -1375,10 +2088,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 6,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 47,
@@ -1407,8 +2138,14 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:190>"
   },
   {
     "id": 48,
@@ -1435,10 +2172,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 49,
@@ -1467,8 +2222,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 50,
@@ -1497,8 +2263,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 51,
@@ -1525,10 +2302,35 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 9,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 52,
@@ -1555,10 +2357,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 53,
@@ -1587,8 +2407,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 54,
@@ -1615,10 +2446,30 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 55,
@@ -1645,10 +2496,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 56,
@@ -1675,10 +2544,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 57,
@@ -1707,8 +2594,14 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 58,
@@ -1735,10 +2628,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:75>"
   },
   {
     "id": 59,
@@ -1765,10 +2676,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 60,
@@ -1795,10 +2724,35 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 8,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 61,
@@ -1825,10 +2779,35 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 3,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 10,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 62,
@@ -1855,10 +2834,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 6,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 63,
@@ -1885,10 +2882,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 64,
@@ -1915,10 +2930,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 65,
@@ -1940,6 +2973,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 8,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -1947,8 +2987,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 66,
@@ -1970,15 +3021,26 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 7,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 67,
@@ -2000,15 +3062,35 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 2,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 68,
@@ -2030,15 +3112,33 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 8,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 9,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 69,
@@ -2060,15 +3160,28 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 3,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 10,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 70,
@@ -2090,6 +3203,20 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 3,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 10,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -2097,8 +3224,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 71,
@@ -2120,15 +3258,28 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 3,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 10,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 72,
@@ -2150,15 +3301,33 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 5,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 8,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 73,
@@ -2180,15 +3349,33 @@
     "dropItems": [],
     "actions": [
       {
-        "skillId": 1,
+        "skillId": 4,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 8,
         "conditionType": 0,
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 74,
@@ -2210,6 +3397,13 @@
     "dropItems": [],
     "actions": [
       {
+        "skillId": 8,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
         "skillId": 1,
         "conditionType": 0,
         "conditionParam1": 0,
@@ -2217,8 +3411,19 @@
         "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 75,
@@ -2245,10 +3450,23 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 9,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 76,
@@ -2275,10 +3493,35 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 3,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 10,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:45>"
   },
   {
     "id": 77,
@@ -2305,10 +3548,28 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 78,
@@ -2335,10 +3596,35 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 79,
@@ -2365,10 +3651,35 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 2,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
+      },
+      {
+        "skillId": 8,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   },
   {
     "id": 80,
@@ -2395,9 +3706,27 @@
         "conditionParam1": 0,
         "conditionParam2": 0,
         "rating": 5
+      },
+      {
+        "skillId": 7,
+        "conditionType": 0,
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "rating": 5
       }
     ],
-    "traits": [],
-    "note": ""
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 0
+      }
+    ],
+    "note": "<catchRate:3>"
   }
 ]
