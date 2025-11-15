@@ -1,0 +1,12 @@
+node_modules
+.git
+.gitignore
+*.mjs
+generate-*.mjs
+fix-*.mjs
+docs
+README.md
+README_JUGAR.md
+.env
+.env.local
+*.log
