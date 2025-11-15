@@ -11,6 +11,20 @@
   "skillTypes": ["", "Magic", "Special"],
   "weaponTypes": [],
   "armorTypes": [],
-  "switches": [],
-  "variables": []
+  "switches": [
+    "",
+    "Captura Exitosa",
+    "Evolución Activada",
+    "Tiene Pokémon Inicial",
+    "Batalla Profesor Completada",
+    "Gimnasio 1 Derrotado"
+  ],
+  "variables": [
+    "",
+    "ID Última Captura",
+    "Pokémon Capturados Total",
+    "Pokémon Inicial Seleccionado",
+    "Dinero",
+    "Medallas"
+  ]
 }

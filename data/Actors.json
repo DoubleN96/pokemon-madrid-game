@@ -1,0 +1,20 @@
+[
+  null,
+  {
+    "id": 1,
+    "name": "Jugador",
+    "nickname": "",
+    "classId": 1,
+    "initialLevel": 1,
+    "maxLevel": 100,
+    "characterName": "Actor1",
+    "characterIndex": 0,
+    "faceName": "Actor1",
+    "faceIndex": 0,
+    "battlerName": "",
+    "profile": "Un joven entrenador de Madrid que comienza su aventura Pokémon.",
+    "traits": [],
+    "equips": [0, 0, 0, 0, 0],
+    "note": ""
+  }
+]

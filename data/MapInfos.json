@@ -1,0 +1,30 @@
+[
+  null,
+  {
+    "id": 1,
+    "expanded": true,
+    "name": "Ciudad Tetuán",
+    "order": 1,
+    "parentId": 0,
+    "scrollX": 0,
+    "scrollY": 0
+  },
+  {
+    "id": 2,
+    "expanded": true,
+    "name": "Laboratorio Profesor Oak Madrid",
+    "order": 2,
+    "parentId": 1,
+    "scrollX": 0,
+    "scrollY": 0
+  },
+  {
+    "id": 3,
+    "expanded": true,
+    "name": "Ruta 1",
+    "order": 3,
+    "parentId": 0,
+    "scrollX": 0,
+    "scrollY": 0
+  }
+]

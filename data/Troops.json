@@ -1,0 +1,45 @@
+[
+  null,
+  {
+    "id": 1,
+    "name": "Ratamad Salvaje",
+    "members": [
+      {"enemyId": 10, "x": 400, "y": 300, "hidden": false}
+    ],
+    "pages": [
+      {
+        "conditions": {"actorHp": 50, "actorId": 1, "actorValid": false, "switchId": 1, "switchValid": false, "turnA": 0, "turnB": 0, "turnEnding": false, "turnValid": false},
+        "list": [{"code": 0, "indent": 0, "parameters": []}],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pichoneta Salvaje",
+    "members": [
+      {"enemyId": 12, "x": 400, "y": 300, "hidden": false}
+    ],
+    "pages": [
+      {
+        "conditions": {"actorHp": 50, "actorId": 1, "actorValid": false, "switchId": 1, "switchValid": false, "turnA": 0, "turnB": 0, "turnEnding": false, "turnValid": false},
+        "list": [{"code": 0, "indent": 0, "parameters": []}],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Perrucho Salvaje",
+    "members": [
+      {"enemyId": 14, "x": 400, "y": 300, "hidden": false}
+    ],
+    "pages": [
+      {
+        "conditions": {"actorHp": 50, "actorId": 1, "actorValid": false, "switchId": 1, "switchValid": false, "turnA": 0, "turnB": 0, "turnEnding": false, "turnValid": false},
+        "list": [{"code": 0, "indent": 0, "parameters": []}],
+        "span": 0
+      }
+    ]
+  }
+]

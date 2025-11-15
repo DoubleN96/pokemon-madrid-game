@@ -1,0 +1,23 @@
+[
+  null,
+  {
+    "id": 1,
+    "name": "Exterior",
+    "mode": 0,
+    "tilesetNames": ["", "Outside_A1", "Outside_A2", "Outside_A3", "Outside_A4", "Outside_A5", "Outside_B", "Outside_C"],
+    "flags": [
+      0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "note": ""
+  },
+  {
+    "id": 2,
+    "name": "Interior",
+    "mode": 0,
+    "tilesetNames": ["", "Inside_A1", "Inside_A2", "Inside_A3", "Inside_A4", "Inside_A5", "Inside_B", "Inside_C"],
+    "flags": [
+      0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    ],
+    "note": ""
+  }
+]

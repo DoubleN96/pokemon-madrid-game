@@ -4,6 +4,25 @@
 
 Pokémon Madrid es un juego de RPG estilo Game Boy inspirado en Pokémon Rojo/Azul, ambientado completamente en Madrid, España. Explora la capital española convertida en una región Pokémon completa con criaturas basadas en la cultura, historia y lugares emblemáticos de Madrid.
 
+## 🎮 ¡JUEGA AHORA!
+
+**El juego ya está jugable en su versión Alpha!**
+
+📖 **[Lee la guía completa de cómo jugar →](README_JUGAR.md)**
+
+**Demo Jugable incluye:**
+- ✅ Selección de Pokémon inicial (Chulapón, Gatolegre, o Azulejín)
+- ✅ Sistema de captura de Pokémon salvajes funcional
+- ✅ Encuentros aleatorios en Ruta 1
+- ✅ Sistema de batalla con tipos y efectividad
+- ✅ Sistema de evolución automática
+- ✅ 80 Pokémon disponibles para capturar
+- ✅ 10 movimientos diferentes
+- ✅ 4 tipos de Poké Balls
+- ✅ Items de curación (Pociones)
+
+**Requisitos:** RPG Maker MZ (prueba gratis disponible)
+
 ## 🗺️ Características Principales
 
 - **80 Pokémon originales** basados en la cultura madrileña
