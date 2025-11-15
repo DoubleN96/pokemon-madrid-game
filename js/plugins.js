@@ -19,33 +19,42 @@ var $plugins = [
     "name": "Synrec_MC_BattleCore",
     "status": true,
     "description": "Monster Capture Battle Core - Sistema de batalla para captura de monstruos",
-    "parameters": {}
+    "parameters": {
+      "defaultBattleLayout": "default"
+    }
   },
   {
     "name": "Synrec_MC_Evolution",
     "status": true,
     "description": "Monster Capture Evolution - Sistema de evolución de criaturas",
     "parameters": {
-      "evolutionSwitch": "2"
+      "evolutionSwitch": "2",
+      "evolutionAnimation": "default"
     }
   },
   {
     "name": "Synrec_MC_Beastiary",
     "status": true,
     "description": "Monster Capture Beastiary - Pokédex/Bestiario de criaturas capturadas",
-    "parameters": {}
+    "parameters": {
+      "beastiaryData": "{}"
+    }
   },
   {
     "name": "Synrec_MC_GenderTraits",
     "status": true,
     "description": "Monster Capture Gender Traits - Género de criaturas con traits especiales",
-    "parameters": {}
+    "parameters": {
+      "genderRatio": "50"
+    }
   },
   {
     "name": "Synrec_MC_PlayerSetup",
     "status": true,
     "description": "Monster Capture Player Setup - Configuración inicial del jugador",
-    "parameters": {}
+    "parameters": {
+      "playerSetupData": "{}"
+    }
   },
 
   // ========================================
@@ -63,13 +72,17 @@ var $plugins = [
     "name": "SRD_PokemonTypeDisplay",
     "status": true,
     "description": "Pokemon Type Display - Muestra los tipos del Pokemon en la UI",
-    "parameters": {}
+    "parameters": {
+      "displayPosition": "default"
+    }
   },
   {
     "name": "SRD_Natures",
     "status": true,
     "description": "Natures - Sistema de naturalezas que afectan stats de Pokemon",
-    "parameters": {}
+    "parameters": {
+      "naturesData": "{}"
+    }
   },
   {
     "name": "SRD_Pokemon4MovesOnly",
