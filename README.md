@@ -21,7 +21,26 @@ Pokémon Madrid es un juego de RPG estilo Game Boy inspirado en Pokémon Rojo/Az
 - ✅ 4 tipos de Poké Balls
 - ✅ Items de curación (Pociones)
 
+### 🌐 Jugar en Navegador / Móvil
+
+**¡El juego ahora funciona en cualquier navegador!**
+
+📱 **Juega desde tu móvil Android/iOS:**
+- Sin instalaciones
+- Compatible con Chrome, Safari, Firefox, Edge
+- Controles touch optimizados
+
+🚀 **Deployment:**
+- ✅ Build web completo listo
+- ✅ Dockerfile incluido
+- ✅ Compatible con Coolify, Netlify, Vercel
+- 📖 [Guía de deployment en Coolify →](COOLIFY_DEPLOY.md)
+- 📖 [Guía de deployment general →](DEPLOYMENT.md)
+
+### 💻 Jugar con RPG Maker MZ
+
 **Requisitos:** RPG Maker MZ (prueba gratis disponible)
+📖 **[Guía de instalación →](README_JUGAR.md)**
 
 ## 🗺️ Características Principales
 
