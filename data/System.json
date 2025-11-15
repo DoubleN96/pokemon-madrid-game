@@ -1,0 +1,16 @@
+{
+  "gameTitle": "Pokémon Madrid: Edición Castiza",
+  "versionId": 95356766,
+  "locale": "es_ES",
+  "partyMembers": [1],
+  "currencyUnit": "₧",
+  "windowTone": [0, 0, 0, 0],
+  "attackMotions": [],
+  "elements": ["", "Physical", "Fire", "Ice", "Thunder", "Water", "Earth", "Wind", "Light", "Dark"],
+  "equipTypes": ["", "Weapon", "Shield", "Head", "Body", "Accessory"],
+  "skillTypes": ["", "Magic", "Special"],
+  "weaponTypes": [],
+  "armorTypes": [],
+  "switches": [],
+  "variables": []
+}
