@@ -7,6 +7,9 @@ ARG CACHEBUST=20251115-122409
 # Copy game files
 COPY . /usr/share/nginx/html/
 
+# Fix file permissions for nginx user
+RUN chmod -R 755 /usr/share/nginx/html
+
 # Copy nginx configuration
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 

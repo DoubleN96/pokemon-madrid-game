@@ -472,7 +472,8 @@ Scene_Title.prototype.adjustBackground = function() {
 };
 
 Scene_Title.prototype.createCommandWindow = function() {
-    const background = $dataSystem.titleCommandWindow.background;
+    const titleCmd = $dataSystem.titleCommandWindow || { background: 0, offsetX: 0, offsetY: 0 };
+    const background = titleCmd.background;
     const rect = this.commandWindowRect();
     this._commandWindow = new Window_TitleCommand(rect);
     this._commandWindow.setBackgroundType(background);
@@ -483,8 +484,9 @@ Scene_Title.prototype.createCommandWindow = function() {
 };
 
 Scene_Title.prototype.commandWindowRect = function() {
-    const offsetX = $dataSystem.titleCommandWindow.offsetX;
-    const offsetY = $dataSystem.titleCommandWindow.offsetY;
+    const titleCmd = $dataSystem.titleCommandWindow || { background: 0, offsetX: 0, offsetY: 0 };
+    const offsetX = titleCmd.offsetX;
+    const offsetY = titleCmd.offsetY;
     const ww = this.mainCommandWidth();
     const wh = this.calcWindowHeight(3, true);
     const wx = (Graphics.boxWidth - ww) / 2 + offsetX;

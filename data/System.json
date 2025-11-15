@@ -155,5 +155,10 @@
     "fontSize": 26,
     "mainFontFilename": ""
   },
-  "menuCommands": [true, true, true, true, true, true]
+  "menuCommands": [true, true, true, true, true, true],
+  "titleCommandWindow": {
+    "background": 0,
+    "offsetX": 0,
+    "offsetY": 0
+  }
 }
