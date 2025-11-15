@@ -1,8 +1,8 @@
 # Build web game for Pokemon Madrid
 FROM nginx:alpine
 
-# Invalidate cache for fresh build
-ARG CACHEBUST=20250115-120600
+## Invalidate cache for fresh build
+ARG CACHEBUST=20250115-121500
 
 # Copy game files
 COPY . /usr/share/nginx/html/
